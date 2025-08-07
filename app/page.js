@@ -2397,12 +2397,12 @@ export default function Home() {
                                     </li>
                                     <li>
                                       <p>
-                                        You'll see me outline how I derive
+                                        You&rsquo;ll see me outline how I derive
                                         profit from my campaigns
                                       </p>
                                     </li>
                                     <li>
-                                      <p>We'll start slow and grow quickly!</p>
+                                      <p>We&rsquo;ll start slow and grow quickly!</p>
                                     </li>
                                   </ul>
                                 </div>
